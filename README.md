@@ -11,3 +11,6 @@ sklearn
 
 Further Goals:
 I want to deploy this project as a webpage eventually.
+
+Link to Youtube demo:
+https://youtu.be/V0vuFb8Vd7A
